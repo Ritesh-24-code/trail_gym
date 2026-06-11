@@ -36,7 +36,7 @@ const Home = () => (
     </div>
 
     <Hr />
-    <Different />
+    {/* <Different /> */}
 
     <Hr />
     <div id="Trainers">
