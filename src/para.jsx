@@ -27,7 +27,7 @@ const para = () => {
         <div className='m-3 max-[435px]:my-10'>
           <Link to="/gallery"> {/* ✅ Link handles navigation — no <a> tag needed */}
             <span className="bg-red-600 text-white text-[1.3rem] max-[950px]:text-[1rem] font-semibold tracking-wider p-3 rounded hover:bg-white hover:text-red-600 transition-all cursor-pointer">
-              Know more
+              Gallery
             </span>
           </Link>
         </div>
