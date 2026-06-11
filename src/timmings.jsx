@@ -1,7 +1,7 @@
 import React from "react";
 import Header from "./header.jsx";
 import Footer from "./footer.jsx";
-import Rights from "./Rights.jsx";
+import Rights from "./rights.jsx";
 import Hr from "./hr.jsx"
 import "./index.css"
 import "animate.css"

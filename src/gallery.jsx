@@ -3,7 +3,7 @@ import 'animate.css'
 import "./index.css"
 import Header from "./header.jsx"
 import Footer from "./footer.jsx"
-import Rights from "./Rights.jsx"
+import Rights from "./rights.jsx"
 import Hr from "./hr.jsx"
 // ❌ removed: import { div } from 'three/src/nodes/math/OperatorNode.js'
 
