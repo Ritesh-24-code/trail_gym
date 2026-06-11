@@ -35,7 +35,7 @@ const Home = () => (
       <Program />
     </div>
 
-    <Hr />
+   
  
 
     <Hr />
