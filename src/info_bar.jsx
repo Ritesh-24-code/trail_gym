@@ -32,7 +32,7 @@ const info_bar = () => {
               <img src={People} alt="" className='w-15 h-15 p-2  max-sm:w-12 max-sm:h-12' />
               <div className="grid justify-center gap-0 items-center align-middle p-1">
                 <span className='text-[1.75rem] font-[beba]'>
-                  3+
+                  5+
                 </span>
                 <span className='text-white  tracking-wider font-lighter text-[1rem] '>
                   Expert Trainers
@@ -50,7 +50,7 @@ const info_bar = () => {
               <img src={Members} alt="" className='w-15 h-15 p-2  max-sm:w-12 max-sm:h-12 ' />
               <div className="grid justify-center gap-0 items-center align-middle p-1">
                 <span className='text-[1.75rem] font-[beba]'>
-                  150+
+                  250+
                 </span>
                 <span className='text-white  tracking-wider font-lighter text-[1rem] '>
                   Happy Memebers

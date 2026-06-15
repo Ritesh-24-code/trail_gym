@@ -1,7 +1,7 @@
 import React, { useState, useRef } from 'react'
 import "./index.css"
 import "animate.css"
-import Video_1 from "./assets/2.png"
+import Video_1 from "./assets/main (2).mp4"
 import Img from "./assets/logo.png"
 
 const Video = () => {

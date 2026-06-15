@@ -7,7 +7,6 @@ import Landing_page from "./landing_page.jsx"
 import Info from "./info_bar.jsx"
 import About from "./about.jsx"
 import Program from "./programs.jsx"
-// import Different from "./Facility.jsx"
 import Trainers from "./trainers.jsx"
 import Plans from "./pricing.jsx"
 import Contact from "./ContactSection.jsx"
@@ -34,9 +33,6 @@ const Home = () => (
     <div id="programs">
       <Program />
     </div>
-
-    <Hr />
-    {/* <Different /> */}
 
     <Hr />
     <div id="Trainers">

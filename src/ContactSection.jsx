@@ -36,22 +36,22 @@ const contactInfo = [
   {
     icon: <PhoneIcon />,
     label: "PHONE",
-    lines: ["+1 234 567 8900"],
+    lines: ["+91 9057904545"],
   },
   {
     icon: <MailIcon />,
     label: "EMAIL",
-    lines: ["info@gymzone.com"],
+    lines: ["levelupfitnessstyle@gmail.com"],
   },
   {
     icon: <PinIcon />,
     label: "ADDRESS",
-    lines: ["123 Fitness Street,", "New York, NY 10001"],
+    lines: ["opp. MCDONALD'S, Bhiwadi, Rajasthan 301019","5RW6+P9 Bhiwadi, Rajasthan"],
   },
   {
     icon: <ClockIcon />,
     label: "HOURS",
-    lines: ["Mon - Sat: 6:00 AM – 10:00 PM", "Sunday: 8:00 AM – 6:00 PM"],
+    lines: ["Mon - Sat:-","Morning: 5:00 AM – 12:00 PM", "Evening: 4:00 PM – 10:00 PM","Sunday – OFF"],
   },
 ];
 

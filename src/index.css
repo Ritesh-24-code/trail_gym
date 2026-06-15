@@ -222,6 +222,38 @@
     }
     
     #trainer_1 {
+        background: url("./assets/trainer1.png");
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-clip: inherit;
+    }
+    
+    #trainer_2 {
+        background: url("./assets/trainer2.png");
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-clip: inherit;
+    }
+    
+    #trainer_3 {
+        background: url("./assets/trainer3.png");
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-clip: inherit;
+    }
+    
+    #trainer_4 {
+        background: url("./assets/man.png");
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-clip: inherit;
+    }
+    
+    #trainer_5 {
         background: url("./assets/man.png");
         background-position: center;
         background-size: cover;
@@ -242,6 +274,7 @@
         background-size: cover;
         background-repeat: no-repeat;
         background-clip: inherit;
+        min-width: 90vw;
         @media(max-width: 960px) {
             background: none;
             background-position: auto;
