@@ -14,7 +14,7 @@ const footer = () => {
                     <div className='grid justify-start align-middle items-center gap-5'>
                         <div className='flex justify-center items-center align-middle '>
                             <span className='flex justify-center align-middle'>
-                                <Link to="/#landing_page">
+                                <Link to="/#Home">
                                     <img src={Log} alt="" className='w-40 h-40' />
                                 </Link>
                             </span>
@@ -103,6 +103,11 @@ const footer = () => {
                             <li>
                                 <Link to="/timmings" className='text-white text-[1rem] hover:text-red-600 transition-all tracking-wider'>
                                     Timings
+                                </Link>
+                            </li>
+                            <li>
+                                <Link to="/Gallery" className='text-white text-[1rem] hover:text-red-600 transition-all tracking-wider'>
+                                    Gallery
                                 </Link>
                             </li>
                         </ol>

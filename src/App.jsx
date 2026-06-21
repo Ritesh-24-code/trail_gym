@@ -33,7 +33,6 @@ const Home = () => (
     <div id="programs">
       <Program />
     </div>
-
     <Hr />
     <div id="Trainers">
       <Trainers />

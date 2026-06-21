@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 export default function MembershipPlans() {
   const plans = [
     {
@@ -112,7 +113,10 @@ export default function MembershipPlans() {
                   rounded-xl
                   font-bold
                   transition">
+                    <Link to="/#Contact">
                 JOIN NOW
+                    </Link>
+
               </button>
             </div>
           ))}
